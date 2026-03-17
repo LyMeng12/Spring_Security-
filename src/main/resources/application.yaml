@@ -10,12 +10,6 @@ spring:
     password: 12345
     username: admin
 
-
-  security:
-    user:
-      name: lymeng
-      password: 12345
-
   jpa:
     hibernate:
       ddl-auto: update
